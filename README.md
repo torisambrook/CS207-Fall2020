@@ -77,7 +77,7 @@ When the software is uploaded to the Modern Clock, the current time will appear 
 The photoresistor is used to turn on the light on the Nokia LCD if there is motion in front of the clock. If there is no motion for a certain period of time, the light on the LCD will turn off and the information will continue to display. If the clock light is off and the button is pressed the LCD light will turn back on. If the metal piece on the side of the clock is touched, the LEDs attached to analog pin A2 will turn on/off. 
 
 ## Presentation
-A video presentation demonstrating the design and build for this project can be found at: 
+A video presentation demonstrating the design and build for this project can be found at: https://youtu.be/6hEIDbAPDDk. 
 
 ## Credits
 The original design and code for the weather forecast clock is created by LenkaDesign and is referenced in the sources [1] through [4]. The touch sensor circuit is adapted from code created by Amel Mathew and can be found at reference [5]. 
