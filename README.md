@@ -2,8 +2,7 @@
 
 ### Tori Sambrook
 
-## Should include:
-Repository Title (maybe with version title)
+## The Modern Clock
 
 Description of project
 
