@@ -69,7 +69,7 @@ When the circuits are built, there are a few steps that first need to be complet
 3. Run the setTime example code from the DS1307RTC library. This is necessary in order to initally set the time on the RTC clock. 
 4. Download the source code found in the /src folder. The code is ready to be uploaded to the project.
 
-If the memory space on the driver permits it, certain parts of the code can be added again by removing the comment bars from them. For example, the playSound() function could be added back to the sketch. 
+If the memory space on the driver permits it, certain parts of the code can be added again by removing the comment bars from them. For example, the playSound() function could be added back to the sketch along with implementing the speaker/buzzer. 
 
 ## Usage
 When the software is uploaded to the Modern Clock, the current time will appear to the screen. The screen will rotate through various information including the temperature, humidity, pressure, and voltage/battery. If the menu button is pressed, then a menu will appear which could allow the user to view the data, set an alarm or the time, or exit the menu. The second button is used to move forward through the options, and the third button moves backwards through the options. The menu button can also be pressed as an "OK" button to select one of the options. 
