@@ -83,12 +83,12 @@ A video presentation demonstrating the design and build for this project can be 
 The original design and code for the weather forecast clock is created by LenkaDesign and is referenced in the sources [1] through [4]. The touch sensor circuit is adapted from code created by Amel Mathew and can be found at reference [5]. 
 
 ## References
- [1] Design, L. (2018, July 21). \emph{Weather Forecast Clock Using Old Alarm and Arduino.} Retrieved December 7, 2020, from https://create.arduino.cc/projecthub/LenkaDesign/weather-forecast-clock-using-old-alarm-and-arduino-c1bb67?ref=similar\&ref\_id=122346\&offset=5
+ [1] Design, L. (2018, July 21). *Weather Forecast Clock Using Old Alarm and Arduino.* Retrieved December 7, 2020, from https://create.arduino.cc/projecthub/LenkaDesign/weather-forecast-clock-using-old-alarm-and-arduino-c1bb67?ref=similar\&ref\_id=122346\&offset=5
 
- [2] Design, L. (2018, July 3). \emph{LenkaDesign/Weather-Forecast-Arduino-Clock.} Retrieved December 7, 2020, from https://github.com/LenkaDesign/Weather-Forecast-Arduino-Clock
+ [2] Design, L. (2018, July 3). *LenkaDesign/Weather-Forecast-Arduino-Clock.* Retrieved December 7, 2020, from https://github.com/LenkaDesign/Weather-Forecast-Arduino-Clock
 
-[3] Design, L. (2018, August 05). \emph{Weather Forecast Clock Using Old Alarm and Arduino.} Retrieved December 7, 2020, from https://www.instructables.com/Weather-Forecast-Clock-Using-Old-Alarm-and-Arduino/
+[3] Design, L. (2018, August 05). *Weather Forecast Clock Using Old Alarm and Arduino.* Retrieved December 7, 2020, from https://www.instructables.com/Weather-Forecast-Clock-Using-Old-Alarm-and-Arduino/
 
-[4] Design, L. (2018, August 05). \emph{How to make Weather station - Arduino, Nokia 5110 LCD and an old clock.} Retrieved December 7, 2020, from https://www.youtube.com/watch?v=-FDuY51MYSw
+[4] Design, L. (2018, August 05). *How to make Weather station - Arduino, Nokia 5110 LCD and an old clock.* Retrieved December 7, 2020, from https://www.youtube.com/watch?v=-FDuY51MYSw
 
-[5] Mathew, A. (2018, January 27). \emph{Touch Controlled Light Using Arduino.} Retrieved December 7, 2020, from https://create.arduino.cc/projecthub/amalmathewtech/touch-controlled-light-using-arduino-d2f878
+[5] Mathew, A. (2018, January 27). *Touch Controlled Light Using Arduino.* Retrieved December 7, 2020, from https://create.arduino.cc/projecthub/amalmathewtech/touch-controlled-light-using-arduino-d2f878
