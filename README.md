@@ -16,6 +16,7 @@ For this project, an old analog clock was converted into a digital clock and wea
 
 ## Requirements and Materials
 **Libraries**
+
 All of the libraries required for this project are found in the /libraries folder. They can also be found at the following sources: 
 - DS1307 Library (for setting the time, requires Time Library): https://github.com/PaulStoffregen/DS1307RTC
 - Time Library: https://github.com/PaulStoffregen/Time
